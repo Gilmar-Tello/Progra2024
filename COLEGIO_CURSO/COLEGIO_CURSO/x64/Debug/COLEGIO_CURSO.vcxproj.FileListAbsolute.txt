@@ -1,0 +1,4 @@
+C:\Users\tello\OneDrive\Escritorio\Progra_1_2024\COLEGIO_CURSO\COLEGIO_CURSO\x64\Debug\COLEGIO_CURSO.vcxproj.AssemblyReference.cache
+C:\Users\tello\OneDrive\Escritorio\Progra_1_2024\COLEGIO_CURSO\COLEGIO_CURSO\x64\Debug\COLEGIO_CURSO.Form1.resources
+C:\Users\tello\OneDrive\Escritorio\Progra_1_2024\COLEGIO_CURSO\COLEGIO_CURSO\x64\Debug\COLEGIO_CURSO.vcxproj.GenerateResource.cache
+C:\Users\tello\OneDrive\Escritorio\Progra_1_2024\COLEGIO_CURSO\COLEGIO_CURSO\x64\Debug\COLEGIO_.B9FDDC6F.Up2Date

@@ -1,0 +1,4 @@
+C:\Users\tello\OneDrive\Escritorio\Progra_1_2024\EvaluacionFinal\EvaluacionFinal\x64\Debug\EvaluacionFinal.vcxproj.AssemblyReference.cache
+C:\Users\tello\OneDrive\Escritorio\Progra_1_2024\EvaluacionFinal\EvaluacionFinal\x64\Debug\EvaluacionFinal.Form1.resources
+C:\Users\tello\OneDrive\Escritorio\Progra_1_2024\EvaluacionFinal\EvaluacionFinal\x64\Debug\EvaluacionFinal.vcxproj.GenerateResource.cache
+C:\Users\tello\OneDrive\Escritorio\Progra_1_2024\EvaluacionFinal\EvaluacionFinal\x64\Debug\Evaluaci.883C9CFD.Up2Date

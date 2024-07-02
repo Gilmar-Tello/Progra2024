@@ -1,0 +1,3 @@
+C:\Users\tello\OneDrive\Escritorio\Progra_1_2024\diseñoproducto2\diseñoproducto2\x64\Debug\diseñoproducto2.vcxproj.AssemblyReference.cache
+C:\Users\tello\OneDrive\Escritorio\Progra_1_2024\diseñoproducto2\diseñoproducto2\x64\Debug\diseñoproducto2.Form1.resources
+C:\Users\tello\OneDrive\Escritorio\Progra_1_2024\diseñoproducto2\diseñoproducto2\x64\Debug\diseñoproducto2.vcxproj.GenerateResource.cache

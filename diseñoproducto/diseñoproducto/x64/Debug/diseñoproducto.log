@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  CppCLR_WinFormsProject.cpp
+  Form1.cpp
+  Generando código...
+C:\Users\tello\OneDrive\Escritorio\Progra_1_2024\diseñoproducto\diseñoproducto\Form1.h(370,23): error C2535: 'void CppCLRWinFormsProject::Form1::Form1_Load(System::Object ^,System::EventArgs ^)': función miembro ya definida o declarada
+  (compilando archivo de origen "/CppCLR_WinFormsProject.cpp")
+  C:\Users\tello\OneDrive\Escritorio\Progra_1_2024\diseñoproducto\diseñoproducto\Form1.h(27,16):
+  vea la declaración de 'CppCLRWinFormsProject::Form1::Form1_Load'
+  

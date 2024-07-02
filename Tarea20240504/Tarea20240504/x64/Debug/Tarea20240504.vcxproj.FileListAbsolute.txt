@@ -1,0 +1,5 @@
+C:\Users\TRON2\source\repos\Tarea20240504\Tarea20240504\x64\Debug\Tarea20240504.vcxproj.AssemblyReference.cache
+C:\Users\TRON2\source\repos\Tarea20240504\Tarea20240504\x64\Debug\Tarea20240504.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\TRON2\source\repos\Tarea20240504\Tarea20240504\x64\Debug\Tarea20240504.Form1.resources
+C:\Users\TRON2\source\repos\Tarea20240504\Tarea20240504\x64\Debug\Tarea20240504.FORM2.resources
+C:\Users\TRON2\source\repos\Tarea20240504\Tarea20240504\x64\Debug\Tarea20240504.vcxproj.GenerateResource.cache

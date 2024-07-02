@@ -1,0 +1,3 @@
+C:\Users\tello\OneDrive\Escritorio\Progra_1_2024\PrimerInterfazGrafica\PrimerInterfazGrafica\x64\Debug\PrimerInterfazGrafica.vcxproj.AssemblyReference.cache
+C:\Users\tello\OneDrive\Escritorio\Progra_1_2024\PrimerInterfazGrafica\PrimerInterfazGrafica\x64\Debug\PrimerInterfazGrafica.Form1.resources
+C:\Users\tello\OneDrive\Escritorio\Progra_1_2024\PrimerInterfazGrafica\PrimerInterfazGrafica\x64\Debug\PrimerInterfazGrafica.vcxproj.GenerateResource.cache

@@ -1,0 +1,438 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CE528C-DA19-4E6B-A8CB-990A046EFE01}|Ejercicio_Class\\Ejercicio_Class.vcxproj|C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\Ejercicio_Class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8CE528C-DA19-4E6B-A8CB-990A046EFE01}|Ejercicio_Class\\Ejercicio_Class.vcxproj|solutionrelative:Ejercicio_Class\\Ejercicio_Class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CE528C-DA19-4E6B-A8CB-990A046EFE01}|Ejercicio_Class\\Ejercicio_Class.vcxproj|C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\Libro.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8CE528C-DA19-4E6B-A8CB-990A046EFE01}|Ejercicio_Class\\Ejercicio_Class.vcxproj|solutionrelative:Ejercicio_Class\\Libro.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CE528C-DA19-4E6B-A8CB-990A046EFE01}|Ejercicio_Class\\Ejercicio_Class.vcxproj|C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\EstudianteM.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8CE528C-DA19-4E6B-A8CB-990A046EFE01}|Ejercicio_Class\\Ejercicio_Class.vcxproj|solutionrelative:Ejercicio_Class\\EstudianteM.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CE528C-DA19-4E6B-A8CB-990A046EFE01}|Ejercicio_Class\\Ejercicio_Class.vcxproj|C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\FiguraGeometrica.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8CE528C-DA19-4E6B-A8CB-990A046EFE01}|Ejercicio_Class\\Ejercicio_Class.vcxproj|solutionrelative:Ejercicio_Class\\FiguraGeometrica.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CE528C-DA19-4E6B-A8CB-990A046EFE01}|Ejercicio_Class\\Ejercicio_Class.vcxproj|C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\ProductoM.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8CE528C-DA19-4E6B-A8CB-990A046EFE01}|Ejercicio_Class\\Ejercicio_Class.vcxproj|solutionrelative:Ejercicio_Class\\ProductoM.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CE528C-DA19-4E6B-A8CB-990A046EFE01}|Ejercicio_Class\\Ejercicio_Class.vcxproj|C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\Caja.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8CE528C-DA19-4E6B-A8CB-990A046EFE01}|Ejercicio_Class\\Ejercicio_Class.vcxproj|solutionrelative:Ejercicio_Class\\Caja.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CE528C-DA19-4E6B-A8CB-990A046EFE01}|Ejercicio_Class\\Ejercicio_Class.vcxproj|C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\Producto.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8CE528C-DA19-4E6B-A8CB-990A046EFE01}|Ejercicio_Class\\Ejercicio_Class.vcxproj|solutionrelative:Ejercicio_Class\\Producto.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CE528C-DA19-4E6B-A8CB-990A046EFE01}|Ejercicio_Class\\Ejercicio_Class.vcxproj|C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\Fraccion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8CE528C-DA19-4E6B-A8CB-990A046EFE01}|Ejercicio_Class\\Ejercicio_Class.vcxproj|solutionrelative:Ejercicio_Class\\Fraccion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CE528C-DA19-4E6B-A8CB-990A046EFE01}|Ejercicio_Class\\Ejercicio_Class.vcxproj|C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\EmpleadoM.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8CE528C-DA19-4E6B-A8CB-990A046EFE01}|Ejercicio_Class\\Ejercicio_Class.vcxproj|solutionrelative:Ejercicio_Class\\EmpleadoM.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CE528C-DA19-4E6B-A8CB-990A046EFE01}|Ejercicio_Class\\Ejercicio_Class.vcxproj|C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\TerjetaCredito.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8CE528C-DA19-4E6B-A8CB-990A046EFE01}|Ejercicio_Class\\Ejercicio_Class.vcxproj|solutionrelative:Ejercicio_Class\\TerjetaCredito.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CE528C-DA19-4E6B-A8CB-990A046EFE01}|Ejercicio_Class\\Ejercicio_Class.vcxproj|C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\FraccionM.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8CE528C-DA19-4E6B-A8CB-990A046EFE01}|Ejercicio_Class\\Ejercicio_Class.vcxproj|solutionrelative:Ejercicio_Class\\FraccionM.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CE528C-DA19-4E6B-A8CB-990A046EFE01}|Ejercicio_Class\\Ejercicio_Class.vcxproj|C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\CuentaBancariaM.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8CE528C-DA19-4E6B-A8CB-990A046EFE01}|Ejercicio_Class\\Ejercicio_Class.vcxproj|solutionrelative:Ejercicio_Class\\CuentaBancariaM.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CE528C-DA19-4E6B-A8CB-990A046EFE01}|Ejercicio_Class\\Ejercicio_Class.vcxproj|C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\Correo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8CE528C-DA19-4E6B-A8CB-990A046EFE01}|Ejercicio_Class\\Ejercicio_Class.vcxproj|solutionrelative:Ejercicio_Class\\Correo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CE528C-DA19-4E6B-A8CB-990A046EFE01}|Ejercicio_Class\\Ejercicio_Class.vcxproj|C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\Poligono.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8CE528C-DA19-4E6B-A8CB-990A046EFE01}|Ejercicio_Class\\Ejercicio_Class.vcxproj|solutionrelative:Ejercicio_Class\\Poligono.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CE528C-DA19-4E6B-A8CB-990A046EFE01}|Ejercicio_Class\\Ejercicio_Class.vcxproj|C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\Punto.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8CE528C-DA19-4E6B-A8CB-990A046EFE01}|Ejercicio_Class\\Ejercicio_Class.vcxproj|solutionrelative:Ejercicio_Class\\Punto.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CE528C-DA19-4E6B-A8CB-990A046EFE01}|Ejercicio_Class\\Ejercicio_Class.vcxproj|C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\Empleado.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8CE528C-DA19-4E6B-A8CB-990A046EFE01}|Ejercicio_Class\\Ejercicio_Class.vcxproj|solutionrelative:Ejercicio_Class\\Empleado.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CE528C-DA19-4E6B-A8CB-990A046EFE01}|Ejercicio_Class\\Ejercicio_Class.vcxproj|C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\Rectangulo2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8CE528C-DA19-4E6B-A8CB-990A046EFE01}|Ejercicio_Class\\Ejercicio_Class.vcxproj|solutionrelative:Ejercicio_Class\\Rectangulo2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CE528C-DA19-4E6B-A8CB-990A046EFE01}|Ejercicio_Class\\Ejercicio_Class.vcxproj|C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\Estudiante.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8CE528C-DA19-4E6B-A8CB-990A046EFE01}|Ejercicio_Class\\Ejercicio_Class.vcxproj|solutionrelative:Ejercicio_Class\\Estudiante.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CE528C-DA19-4E6B-A8CB-990A046EFE01}|Ejercicio_Class\\Ejercicio_Class.vcxproj|C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\Triangulo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8CE528C-DA19-4E6B-A8CB-990A046EFE01}|Ejercicio_Class\\Ejercicio_Class.vcxproj|solutionrelative:Ejercicio_Class\\Triangulo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CE528C-DA19-4E6B-A8CB-990A046EFE01}|Ejercicio_Class\\Ejercicio_Class.vcxproj|C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\Vehiculo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8CE528C-DA19-4E6B-A8CB-990A046EFE01}|Ejercicio_Class\\Ejercicio_Class.vcxproj|solutionrelative:Ejercicio_Class\\Vehiculo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CE528C-DA19-4E6B-A8CB-990A046EFE01}|Ejercicio_Class\\Ejercicio_Class.vcxproj|C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\CuentaBancaria.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8CE528C-DA19-4E6B-A8CB-990A046EFE01}|Ejercicio_Class\\Ejercicio_Class.vcxproj|solutionrelative:Ejercicio_Class\\CuentaBancaria.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CE528C-DA19-4E6B-A8CB-990A046EFE01}|Ejercicio_Class\\Ejercicio_Class.vcxproj|C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\Fecha.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8CE528C-DA19-4E6B-A8CB-990A046EFE01}|Ejercicio_Class\\Ejercicio_Class.vcxproj|solutionrelative:Ejercicio_Class\\Fecha.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CE528C-DA19-4E6B-A8CB-990A046EFE01}|Ejercicio_Class\\Ejercicio_Class.vcxproj|C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\Persona.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8CE528C-DA19-4E6B-A8CB-990A046EFE01}|Ejercicio_Class\\Ejercicio_Class.vcxproj|solutionrelative:Ejercicio_Class\\Persona.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CE528C-DA19-4E6B-A8CB-990A046EFE01}|Ejercicio_Class\\Ejercicio_Class.vcxproj|C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\Animal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8CE528C-DA19-4E6B-A8CB-990A046EFE01}|Ejercicio_Class\\Ejercicio_Class.vcxproj|solutionrelative:Ejercicio_Class\\Animal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CE528C-DA19-4E6B-A8CB-990A046EFE01}|Ejercicio_Class\\Ejercicio_Class.vcxproj|C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\Circulo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8CE528C-DA19-4E6B-A8CB-990A046EFE01}|Ejercicio_Class\\Ejercicio_Class.vcxproj|solutionrelative:Ejercicio_Class\\Circulo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CE528C-DA19-4E6B-A8CB-990A046EFE01}|Ejercicio_Class\\Ejercicio_Class.vcxproj|C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\Rectangulo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8CE528C-DA19-4E6B-A8CB-990A046EFE01}|Ejercicio_Class\\Ejercicio_Class.vcxproj|solutionrelative:Ejercicio_Class\\Rectangulo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FraccionM.h",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\FraccionM.h",
+              "RelativeDocumentMoniker": "Ejercicio_Class\\FraccionM.h",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\FraccionM.h",
+              "RelativeToolTip": "Ejercicio_Class\\FraccionM.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-06T01:49:33.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TerjetaCredito.h",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\TerjetaCredito.h",
+              "RelativeDocumentMoniker": "Ejercicio_Class\\TerjetaCredito.h",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\TerjetaCredito.h",
+              "RelativeToolTip": "Ejercicio_Class\\TerjetaCredito.h",
+              "ViewState": "AQIAABQAAAAAAAAAAAAIwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-06T01:39:36.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ejercicio_Class.cpp",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\Ejercicio_Class.cpp",
+              "RelativeDocumentMoniker": "Ejercicio_Class\\Ejercicio_Class.cpp",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\Ejercicio_Class.cpp",
+              "RelativeToolTip": "Ejercicio_Class\\Ejercicio_Class.cpp",
+              "ViewState": "AQIAAKUAAAAAAAAAAAAAAKkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-02T20:08:13.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmpleadoM.h",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\EmpleadoM.h",
+              "RelativeDocumentMoniker": "Ejercicio_Class\\EmpleadoM.h",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\EmpleadoM.h",
+              "RelativeToolTip": "Ejercicio_Class\\EmpleadoM.h",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAA4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-06T01:45:07.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Fraccion.h",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\Fraccion.h",
+              "RelativeDocumentMoniker": "Ejercicio_Class\\Fraccion.h",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\Fraccion.h",
+              "RelativeToolTip": "Ejercicio_Class\\Fraccion.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-06T01:10:03.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Libro.h",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\Libro.h",
+              "RelativeDocumentMoniker": "Ejercicio_Class\\Libro.h",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\Libro.h",
+              "RelativeToolTip": "Ejercicio_Class\\Libro.h",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-06T01:07:49.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductoM.h",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\ProductoM.h",
+              "RelativeDocumentMoniker": "Ejercicio_Class\\ProductoM.h",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\ProductoM.h",
+              "RelativeToolTip": "Ejercicio_Class\\ProductoM.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-06T04:20:07.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Producto.h",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\Producto.h",
+              "RelativeDocumentMoniker": "Ejercicio_Class\\Producto.h",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\Producto.h",
+              "RelativeToolTip": "Ejercicio_Class\\Producto.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-06T01:37:21.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Caja.h",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\Caja.h",
+              "RelativeDocumentMoniker": "Ejercicio_Class\\Caja.h",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\Caja.h",
+              "RelativeToolTip": "Ejercicio_Class\\Caja.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-06T01:24:31.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FiguraGeometrica.h",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\FiguraGeometrica.h",
+              "RelativeDocumentMoniker": "Ejercicio_Class\\FiguraGeometrica.h",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\FiguraGeometrica.h",
+              "RelativeToolTip": "Ejercicio_Class\\FiguraGeometrica.h",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAACwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-06T01:32:47.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EstudianteM.h",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\EstudianteM.h",
+              "RelativeDocumentMoniker": "Ejercicio_Class\\EstudianteM.h",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\EstudianteM.h",
+              "RelativeToolTip": "Ejercicio_Class\\EstudianteM.h",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-06T03:42:25.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CuentaBancariaM.h",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\CuentaBancariaM.h",
+              "RelativeDocumentMoniker": "Ejercicio_Class\\CuentaBancariaM.h",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\CuentaBancariaM.h",
+              "RelativeToolTip": "Ejercicio_Class\\CuentaBancariaM.h",
+              "ViewState": "AQIAABMAAAAAAAAAAAAIwDAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-06T03:33:39.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Correo.h",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\Correo.h",
+              "RelativeDocumentMoniker": "Ejercicio_Class\\Correo.h",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\Correo.h",
+              "RelativeToolTip": "Ejercicio_Class\\Correo.h",
+              "ViewState": "AQIAABoAAAAAAAAAAAAqwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-06T01:30:10.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Poligono.h",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\Poligono.h",
+              "RelativeDocumentMoniker": "Ejercicio_Class\\Poligono.h",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\Poligono.h",
+              "RelativeToolTip": "Ejercicio_Class\\Poligono.h",
+              "ViewState": "AQIAABEAAAAAAAAAAAAqwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-06T01:28:22.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Empleado.h",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\Empleado.h",
+              "RelativeDocumentMoniker": "Ejercicio_Class\\Empleado.h",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\Empleado.h",
+              "RelativeToolTip": "Ejercicio_Class\\Empleado.h",
+              "ViewState": "AQIAABAAAAAAAAAAAAAqwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-06T01:18:12.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Punto.h",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\Punto.h",
+              "RelativeDocumentMoniker": "Ejercicio_Class\\Punto.h",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\Punto.h",
+              "RelativeToolTip": "Ejercicio_Class\\Punto.h",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-06T01:20:11.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Rectangulo2.h",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\Rectangulo2.h",
+              "RelativeDocumentMoniker": "Ejercicio_Class\\Rectangulo2.h",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\Rectangulo2.h",
+              "RelativeToolTip": "Ejercicio_Class\\Rectangulo2.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-06T01:14:50.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Vehiculo.h",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\Vehiculo.h",
+              "RelativeDocumentMoniker": "Ejercicio_Class\\Vehiculo.h",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\Vehiculo.h",
+              "RelativeToolTip": "Ejercicio_Class\\Vehiculo.h",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAIwCUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-05T04:04:43.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Triangulo.h",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\Triangulo.h",
+              "RelativeDocumentMoniker": "Ejercicio_Class\\Triangulo.h",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\Triangulo.h",
+              "RelativeToolTip": "Ejercicio_Class\\Triangulo.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-06T01:02:35.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Estudiante.h",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\Estudiante.h",
+              "RelativeDocumentMoniker": "Ejercicio_Class\\Estudiante.h",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\Estudiante.h",
+              "RelativeToolTip": "Ejercicio_Class\\Estudiante.h",
+              "ViewState": "AQIAABoAAAAAAAAAAAAqwDYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-06T01:05:38.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CuentaBancaria.h",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\CuentaBancaria.h",
+              "RelativeDocumentMoniker": "Ejercicio_Class\\CuentaBancaria.h",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\CuentaBancaria.h",
+              "RelativeToolTip": "Ejercicio_Class\\CuentaBancaria.h",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T04:01:45.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Fecha.h",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\Fecha.h",
+              "RelativeDocumentMoniker": "Ejercicio_Class\\Fecha.h",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\Fecha.h",
+              "RelativeToolTip": "Ejercicio_Class\\Fecha.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-05T03:51:06.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Animal.h",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\Animal.h",
+              "RelativeDocumentMoniker": "Ejercicio_Class\\Animal.h",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\Animal.h",
+              "RelativeToolTip": "Ejercicio_Class\\Animal.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-02T21:44:45.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Circulo.h",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\Circulo.h",
+              "RelativeDocumentMoniker": "Ejercicio_Class\\Circulo.h",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\Circulo.h",
+              "RelativeToolTip": "Ejercicio_Class\\Circulo.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-02T21:32:01.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Persona.h",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\Persona.h",
+              "RelativeDocumentMoniker": "Ejercicio_Class\\Persona.h",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\Persona.h",
+              "RelativeToolTip": "Ejercicio_Class\\Persona.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-02T20:30:27.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Rectangulo.h",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\Rectangulo.h",
+              "RelativeDocumentMoniker": "Ejercicio_Class\\Rectangulo.h",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Escritorio\\Progra_1_2024\\Ejercicio_Class\\Ejercicio_Class\\Rectangulo.h",
+              "RelativeToolTip": "Ejercicio_Class\\Rectangulo.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-02T20:11:12.845Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

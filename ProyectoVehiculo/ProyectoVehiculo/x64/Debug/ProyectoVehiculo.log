@@ -1,0 +1,16 @@
+﻿  CppCLR_WinFormsProject.cpp
+C:\Users\tello\OneDrive\Escritorio\Progra_1_2024\ProyectoVehiculo\ProyectoVehiculo\Form2.h(19,3): warning C4677: '{ctor}': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'Vehiculo'
+  (compilando archivo de origen "/CppCLR_WinFormsProject.cpp")
+  C:\Users\tello\OneDrive\Escritorio\Progra_1_2024\ProyectoVehiculo\ProyectoVehiculo\Vehiculo.h(5,11):
+  vea la declaración de 'Vehiculo'
+  
+  Form2.cpp
+C:\Users\tello\OneDrive\Escritorio\Progra_1_2024\ProyectoVehiculo\ProyectoVehiculo\Form2.h(19,3): warning C4677: '{ctor}': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'Vehiculo'
+  (compilando archivo de origen "/Form2.cpp")
+  C:\Users\tello\OneDrive\Escritorio\Progra_1_2024\ProyectoVehiculo\ProyectoVehiculo\Vehiculo.h(5,11):
+  vea la declaración de 'Vehiculo'
+  
+  Vehiculo.cpp
+  Generando código...
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  ProyectoVehiculo.vcxproj -> C:\Users\tello\OneDrive\Escritorio\Progra_1_2024\ProyectoVehiculo\x64\Debug\ProyectoVehiculo.exe

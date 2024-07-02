@@ -1,0 +1,4 @@
+C:\Users\tello\OneDrive\Escritorio\Progra_1_2024\ProyectoVehiculo\ProyectoVehiculo\x64\Debug\ProyectoVehiculo.vcxproj.AssemblyReference.cache
+C:\Users\tello\OneDrive\Escritorio\Progra_1_2024\ProyectoVehiculo\ProyectoVehiculo\x64\Debug\ProyectoVehiculo.Form1.resources
+C:\Users\tello\OneDrive\Escritorio\Progra_1_2024\ProyectoVehiculo\ProyectoVehiculo\x64\Debug\ProyectoVehiculo.Form2.resources
+C:\Users\tello\OneDrive\Escritorio\Progra_1_2024\ProyectoVehiculo\ProyectoVehiculo\x64\Debug\ProyectoVehiculo.vcxproj.GenerateResource.cache

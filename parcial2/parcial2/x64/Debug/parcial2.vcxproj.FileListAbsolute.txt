@@ -1,0 +1,4 @@
+C:\Users\tello\OneDrive\Escritorio\Progra_1_2024\parcial2\parcial2\x64\Debug\parcial2.vcxproj.AssemblyReference.cache
+C:\Users\tello\OneDrive\Escritorio\Progra_1_2024\parcial2\parcial2\x64\Debug\parcial2.Form1.resources
+C:\Users\tello\OneDrive\Escritorio\Progra_1_2024\parcial2\parcial2\x64\Debug\parcial2.Form2.resources
+C:\Users\tello\OneDrive\Escritorio\Progra_1_2024\parcial2\parcial2\x64\Debug\parcial2.vcxproj.GenerateResource.cache

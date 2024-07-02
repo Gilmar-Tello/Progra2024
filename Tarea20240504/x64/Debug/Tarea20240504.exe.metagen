@@ -1,0 +1,57 @@
+  Tarea20240504.Form1.resources - Embedded, ContainedInManifestFile, 
+  Tarea20240504.FORM2.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly Tarea20240504, Version=1.0.*, Culture=Todos los idiomas (todos los países): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class Vehiculo: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Int32, System.String, Int32, System.String, TipoVehiculo, TipoMotor, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    getIdVehiculo(): PrivateScope, Public, HideBySig
+    getLinea(): PrivateScope, Public, HideBySig
+    getAnio(): PrivateScope, Public, HideBySig
+    getMotor(): PrivateScope, Public, HideBySig
+    getTipoVehiculo(): PrivateScope, Public, HideBySig
+    getTipoMotor(): PrivateScope, Public, HideBySig
+    getVinNumber(): PrivateScope, Public, HideBySig
+    setIdVehiculo(Int32): PrivateScope, Public, HideBySig
+    setLinea(String): PrivateScope, Public, HideBySig
+    setAnio(Int32): PrivateScope, Public, HideBySig
+    setMotor(String): PrivateScope, Public, HideBySig
+    setTipoVehiculo(TipoVehiculo): PrivateScope, Public, HideBySig
+    setTipoMotor(TipoMotor): PrivateScope, Public, HideBySig
+    setVinNumber(String): PrivateScope, Public, HideBySig
+    mostrarInformacion(): PrivateScope, Public, HideBySig
+Class CppCLRWinFormsProject.Form1: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Struct TipoVehiculo: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    TipoVehiculo Acuatico = 0 : Public, Static, Literal, HasDefault
+    TipoVehiculo Terrestre = 1 : Public, Static, Literal, HasDefault
+    TipoVehiculo Aereo = 2 : Public, Static, Literal, HasDefault
+Struct TipoMotor: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    TipoMotor Diesel = 0 : Public, Static, Literal, HasDefault
+    TipoMotor Gasolina = 1 : Public, Static, Literal, HasDefault
+    TipoMotor Electrico = 2 : Public, Static, Literal, HasDefault
+    TipoMotor Hidrogeno = 3 : Public, Static, Literal, HasDefault
+Class Tarea20240504.FORM2: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName

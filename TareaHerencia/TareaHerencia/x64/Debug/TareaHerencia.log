@@ -1,0 +1,7 @@
+﻿  Personaje.cpp
+  TareaHerencia.cpp
+C:\Users\tello\OneDrive\Escritorio\Progra_1_2024\TareaHerencia\TareaHerencia\Carta.h(62,29): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  (compilando archivo de origen "TareaHerencia.cpp")
+  
+  Generando código...
+  TareaHerencia.vcxproj -> C:\Users\tello\OneDrive\Escritorio\Progra_1_2024\TareaHerencia\x64\Debug\TareaHerencia.exe

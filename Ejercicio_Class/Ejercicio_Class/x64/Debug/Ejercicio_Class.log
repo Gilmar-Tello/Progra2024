@@ -1,0 +1,8 @@
+﻿  Ejercicio_Class.cpp
+C:\Users\tello\OneDrive\Escritorio\Progra_1_2024\Ejercicio_Class\Ejercicio_Class\FiguraGeometrica.h(35,31): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "Ejercicio_Class.cpp")
+  
+C:\Users\tello\OneDrive\Escritorio\Progra_1_2024\Ejercicio_Class\Ejercicio_Class\FiguraGeometrica.h(51,27): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "Ejercicio_Class.cpp")
+  
+  Ejercicio_Class.vcxproj -> C:\Users\tello\OneDrive\Escritorio\Progra_1_2024\Ejercicio_Class\x64\Debug\Ejercicio_Class.exe

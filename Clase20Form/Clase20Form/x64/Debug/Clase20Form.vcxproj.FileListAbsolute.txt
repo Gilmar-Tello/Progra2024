@@ -1,0 +1,5 @@
+C:\Users\tello\OneDrive\Escritorio\Progra_1_2024\Clase20Form\Clase20Form\x64\Debug\Clase20Form.vcxproj.AssemblyReference.cache
+C:\Users\tello\OneDrive\Escritorio\Progra_1_2024\Clase20Form\Clase20Form\x64\Debug\Clase20Form.frmVentana1.resources
+C:\Users\tello\OneDrive\Escritorio\Progra_1_2024\Clase20Form\Clase20Form\x64\Debug\Clase20Form.frmVentana2.resources
+C:\Users\tello\OneDrive\Escritorio\Progra_1_2024\Clase20Form\Clase20Form\x64\Debug\Clase20Form.vcxproj.GenerateResource.cache
+C:\Users\tello\OneDrive\Escritorio\Progra_1_2024\Clase20Form\Clase20Form\x64\Debug\Clase20Form.Form1.resources

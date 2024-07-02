@@ -1,0 +1,3 @@
+﻿  Constructor.cpp
+C:\Users\tello\OneDrive\Escritorio\Progra_1_2024\Constructor\Constructor\Constructor.cpp(23,9): warning C4091: '': se ha omitido a la izquierda de 'Cliente' cuando no hay ninguna variable declarada
+  Constructor.vcxproj -> C:\Users\tello\OneDrive\Escritorio\Progra_1_2024\Constructor\x64\Debug\Constructor.exe

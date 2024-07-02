@@ -1,0 +1,3 @@
+﻿  Tipos_de_Variables.cpp
+C:\Users\tello\OneDrive\Escritorio\Progra_1_2024\Tipos_de_Variables\Tipos_de_Variables\Tipos_de_Variables.cpp(11,27): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  Tipos_de_Variables.vcxproj -> C:\Users\tello\OneDrive\Escritorio\Progra_1_2024\Tipos_de_Variables\x64\Debug\Tipos_de_Variables.exe
